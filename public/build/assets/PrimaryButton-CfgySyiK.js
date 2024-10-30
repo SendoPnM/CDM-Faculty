@@ -1,0 +1,1 @@
+import{j as m}from"./app-CeuI7o1v.js";function s({className:r="",disabled:t,children:n,...o}){return m.jsx("button",{...o,className:`btn btn-primary mb-3 ${t&&"opacity-25"} `+r,disabled:t,children:n})}export{s as P};

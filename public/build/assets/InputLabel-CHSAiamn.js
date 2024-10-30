@@ -1,0 +1,1 @@
+import{j as a}from"./app-CeuI7o1v.js";function s({value:t,className:e="",children:n,...r}){return a.jsx("label",{...r,className:"block font-[400] leading-[1.5] !text-[.95rem] mb-1 !text-[#69707a]"+e,children:t||n})}export{s as I};
